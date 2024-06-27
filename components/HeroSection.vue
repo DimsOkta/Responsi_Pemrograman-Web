@@ -13,7 +13,7 @@
                     <div class="mt-3">
                       <h4>Muhammad Dimas Oktavian</h4>
                       <p class="text-secondary mb-1">UI/UX Desaigner</p>
-                      <p class="text-muted font-size-sm">Purbalingga, Indonesia</p>
+                      <p class="text-muted font-size-sm">Yogyakarta, Indonesia</p>
                       <button class="btn btn-primary">Follow</button>
                       <button class="btn btn-outline-primary">Message</button>
                     </div>
@@ -89,7 +89,7 @@
                       <h6 class="mb-0">Address</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Purbalingga, Indonesia
+                      Yogyakarta, Indonesia
                     </div>
                   </div>
                   <hr>
