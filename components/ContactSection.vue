@@ -4,7 +4,7 @@
       <h2>Contact Me</h2>
       <div id="contact-details-form">
         <div id="contact-details">
-          <p><strong>Location:</strong> Yogyakarta, Indonesia</p>
+          <p><strong>Location:</strong> Yogyakarta, Indonesian</p>
           <p><strong>Phone:</strong> +62 123 456 789</p>
           <p><strong>Email:</strong> email@email.com</p>
         </div>

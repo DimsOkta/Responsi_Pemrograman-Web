@@ -11,28 +11,28 @@
           <div class="col-sm-6 mb-3">
             <div class="card h-100">
               <div class="card-body">
-                <h6 class="d-flex align-items-center mb-3">My skill</h6>
+                <h6 class="d-flex align-items-center mb-3">Project Status</h6>
                 <small>Adobe Illustrator</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Adobe Photoshop</small>
+                <small>UI/UX Design</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Auto Desk Maya</small>
+                <small>App Mockup</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Figma</small>
+                <small>Ui Kit</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>HTML CSS</small>
+                <small>Mobile Templates</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100">
                   </div>
@@ -43,28 +43,28 @@
           <div class="col-sm-6 mb-3">
             <div class="card h-100">
               <div class="card-body">
-                <h6 class="d-flex align-items-center mb-3">Project Status</h6>
-                <small>Web Design</small>
+                <h6 class="d-flex align-items-center mb-3">Skill</h6>
+                <small>User Reseacrh</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Website Markup</small>
+                <small>Prototyping & Mockups</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>One Page</small>
+                <small>User Testing</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Mobile Template</small>
+                <small>Visual Design</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
                   </div>
                 </div>
-                <small>Backend API</small>
+                <small>Collaboration</small>
                 <div class="progress mb-3" style="height: 5px">
                   <div class="progress-bar bg-primary" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100">
                   </div>
