@@ -5,7 +5,7 @@
             <div class="navbar__logo"></div>
             <nav class="navbar navbar-expand-lg  navbar__menu">
               <div class="container-fluid">
-                <a class="navbar-brand" href="#">MY PORTOFOLIO</a>
+                <a class="navbar-brand" href="#">Profile'me</a>
               </div>
                 <a href="#home-hero" class="navbar__link">Home</a>
                 <a href="#about" class="navbar__link">About</a>
